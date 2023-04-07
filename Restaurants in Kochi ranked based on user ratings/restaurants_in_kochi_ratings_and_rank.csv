@@ -1,0 +1,1123 @@
+rank,name,review,rated_excellent,rated_very_good,rated_average,rated_poor,rated_terrible,rating,price_range
+1,Latest Recipe,790,713,54,5,4,3,5,"₹812 - ₹2,031"
+2,Mosaic,"1,257","1,136",75,19,4,5,5,"₹1,000 - ₹1,500"
+3,Masala,646,554,57,19,5,5,5,"₹406 - ₹1,625"
+4,Zoka,729,639,55,14,4,6,5,"₹750 - ₹15,000"
+5,Thai Soul,479,444,27,3,1,3,5,"₹1,100 - ₹1,300"
+6,Sky Grill,808,690,82,15,3,2,5,NaN
+7,Malabar Cafe,357,328,23,2,4,1,5,"₹950 - ₹1,500"
+8,Tharavadu Restaurant by Casino hotel,205,182,20,1,1,1,5,"₹450 - ₹1,000"
+9,Colony Clubhouse & Grill,546,513,25,7,1,3,5,"₹4,500 - ₹6,000"
+10,Momo Cafe,533,462,50,9,0,6,5,"₹600 - ₹1,200"
+11,Cassava,376,329,34,5,2,3,5,"₹500 - ₹3,000"
+12,Kochi Kitchen,664,580,61,9,3,7,5,"₹1,000 - ₹2,000"
+13,Ciao Cochin,271,229,36,8,0,0,5,"₹650 - ₹2,437"
+14,Grand Lounge,77,72,5,0,0,0,5,NaN
+15,Rasoi Fort Kochi,352,216,30,9,0,1,5,₹300 - ₹750
+16,The Rice Boat,279,201,49,7,3,3,4.5,NaN
+17,Lilliput Multi Cuisine Restaurant,499,318,78,20,4,10,4.5,₹150 - ₹300
+18,Farmers Cafe,491,315,60,17,6,3,4.5,₹150 - ₹550
+19,The Asian Kitchen by Tokyo Bay,414,266,77,17,8,7,4.5,NaN
+20,Warehouse Cafe & Restaurant,331,224,37,15,10,8,4.5,"₹250 - ₹1,000"
+21,Mary’s Kitchen,431,250,80,17,7,7,4.5,NaN
+22,Old Harbour Hotel Restaurant,781,370,175,46,18,19,4.5,NaN
+23,Dhe Puttu,749,418,228,70,15,18,4.5,₹150 - ₹250
+24,Chilliout Cafe Cherai beach,510,267,102,29,12,11,4.5,₹15 - ₹950
+25,Kashi,"1,682",846,492,105,29,25,4.5,NaN
+26,Fort House Restaurant,478,230,125,32,12,13,4.5,NaN
+27,Oceanos Restaurant,"1,635",749,435,126,36,19,4.5,₹244 - ₹812
+28,Fort Kochi Seafood Restaurant,186,100,55,11,6,3,4.5,₹406 - ₹812
+29,fusion Bay,"1,175",570,289,84,26,16,4.5,₹70 - ₹450
+30,Brindhavan Restaurant,281,127,122,25,1,5,4.5,NaN
+31,Tibetan Chefs Restaurant,427,142,127,24,10,9,4.5,NaN
+32,Casa Linda,311,169,73,18,7,3,4.5,NaN
+33,"Pizzeria ""Pizza Italia""",235,125,40,7,8,3,4.5,NaN
+34,Restaurant 51,194,128,39,5,7,3,4.5,"₹800 - ₹1,000"
+35,Grand Pavilion,594,245,247,40,20,19,4,NaN
+36,Pepper House Cafe,298,143,85,23,5,6,4.5,₹406 - ₹650
+37,Punjab House Restaurant,159,84,53,9,2,2,4.5,NaN
+38,East Indies,154,99,24,13,2,0,4.5,NaN
+39,Paragon Restaurant,863,363,341,95,28,30,4,NaN
+40,Malabar Junction,536,211,124,70,37,16,4,"₹500 - ₹1,000"
+41,Aroma Lounge & Deli,93,82,6,1,1,0,5,NaN
+42,Deli KC,66,58,5,2,0,1,5,NaN
+43,Solar Cafe,133,77,31,5,1,0,4.5,₹40 - ₹300
+44,Ginger House,434,148,148,49,14,17,4,"₹350 - ₹1,300"
+45,Barbeque Nation,170,90,59,15,2,2,4.5,NaN
+46,Pai Dosa,333,116,137,65,5,9,4,NaN
+47,Sri Krishna Cafe,148,79,39,12,3,0,4.5,NaN
+48,Brunton Boatyard,227,114,51,30,5,7,4.5,NaN
+49,Hotel Seagull,628,213,225,62,35,48,4,NaN
+50,Brindhavan Veg Restaurant,114,55,51,5,0,2,4.5,NaN
+51,Mocha Art Cafe,123,86,20,5,3,3,4.5,₹14 - ₹850
+52,Loving Earth Yoga Cafe,65,50,8,5,0,0,4.5,NaN
+53,Longitude 76,46,42,4,0,0,0,5,NaN
+54,Rose Garden Restaurant,256,138,44,9,7,16,4.5,NaN
+55,ConneXions Bar,67,53,10,2,0,1,4.5,NaN
+56,Cocoa Tree - MG Road Kochi,181,82,74,18,2,5,4,NaN
+57,The Burger Junction,97,51,36,8,0,1,4.5,NaN
+58,Bubble Cafe,201,88,70,24,11,2,4,NaN
+59,Cafe17,77,50,21,3,1,0,4.5,₹150 - ₹250
+60,Cafe Crafters,96,41,28,8,0,0,4.5,NaN
+61,Kayees Rahmathullah Hotel Restaurant,255,89,102,38,12,9,4,NaN
+62,BTH Sarovaram Restaurant,268,77,124,44,9,12,4,₹150 - ₹250
+63,Uruli,54,42,7,4,1,0,4.5,NaN
+64,Mullapanthal Toddy Shop,167,66,71,21,3,6,4,NaN
+65,Master's Art Cafe,59,40,6,2,0,0,5,₹100 - ₹200
+66,Sree Krishna Inn,181,58,82,30,4,5,4,NaN
+67,Gokul Oottupura,143,38,85,14,2,3,4,NaN
+68,Pai Brothers Fast Food,138,52,61,21,0,3,4,NaN
+69,Keshia,44,30,10,2,1,0,4.5,"₹13 - ₹1,000"
+70,Stadia,36,32,2,1,1,0,5,NaN
+71,Hotel Saravana Bhavan Restaurant,108,35,55,14,1,2,4,NaN
+72,Taberna,53,47,2,2,1,0,5,"₹1,000 - ₹3,000"
+73,Sethi Da Dhaba,131,54,52,13,7,5,4,₹350 - ₹500
+74,"The Drawing Room, Kochi",102,51,29,11,2,4,4.5,NaN
+75,Bristow's Bistro at The Old Lighthouse Bristow Hotel,135,64,31,19,6,3,4,NaN
+76,Lokah Restaurant & Cafe,154,47,76,23,2,4,4,"₹300 - ₹1,000"
+77,Vivanta by Taj Restaurant,86,47,26,4,2,2,4.5,NaN
+78,Nawras Authentic Seafood Restaurant,168,78,55,13,6,12,4,"₹70 - ₹10,000"
+79,Periyar restaurant,65,36,25,2,0,1,4.5,NaN
+80,Sardarji Ka Dhaba,132,53,48,20,5,6,4,NaN
+81,Bench Restocafe,51,25,13,4,1,1,4.5,NaN
+82,Upstairs Italian Restaurant,368,116,88,47,29,31,4,NaN
+83,Nasi and Mee,50,27,16,2,2,1,4.5,NaN
+84,East India Street Cafe,49,27,12,1,1,1,4.5,"₹200 - ₹2,500"
+85,The Eatery,34,25,6,2,1,0,4.5,"₹200 - ₹1,500"
+86,Fresh Choice Restaurant,79,43,17,2,4,3,4.5,NaN
+87,Aavi restaurant,103,46,36,16,2,3,4,₹50 - ₹500
+88,Cheenavala Seafood Restaurant,79,40,24,9,0,6,4,"₹20 - ₹1,000"
+89,Punjab Grill Kochi,44,24,14,4,2,0,4.5,"₹1,62,496 - ₹2,03,120"
+90,Hotel Anugraha,73,20,40,12,1,0,4,NaN
+91,Seafood Harbour,130,49,46,10,2,8,4,"₹200 - ₹1,000"
+92,Menorah Restaurant at Koder House,170,44,54,35,10,5,4,"₹812 - ₹1,219"
+93,Galito's,58,23,25,5,1,1,4.5,NaN
+94,Cafe Bridge Inn,36,28,4,1,1,0,4.5,NaN
+95,Chopstix,126,42,54,18,6,5,4,₹300 - ₹500
+96,Big Fat Momo,49,31,12,2,1,1,4.5,₹150 - ₹200
+97,The Yellow Chilli,64,28,24,7,3,2,4,NaN
+98,fish 'n' chips,62,33,16,2,2,0,4.5,NaN
+99,Taj Mahal,47,27,8,1,2,0,4.5,NaN
+100,Aangan Downtown,43,27,9,3,0,1,4.5,₹90 - ₹900
+101,Thakkaram,116,36,50,21,6,3,4,NaN
+102,Ali Baba And 41 Dishes,184,34,85,46,7,10,3.5,NaN
+103,Kareemsait's Biriyani,18,18,0,0,0,0,5,₹150 - ₹300
+104,Saffron,45,25,6,3,1,0,4.5,NaN
+105,Shree Ganesha Restaurant,33,20,7,0,1,0,4.5,NaN
+106,Spice Root Restaurant,34,16,9,4,0,0,4.5,NaN
+107,French Toast,52,29,16,4,1,2,4.5,"₹100 - ₹1,000"
+108,Kayees Rahmathulla Cafe,46,24,16,2,0,1,4.5,NaN
+109,Little Soi,25,16,8,0,1,0,4.5,₹250 - ₹400
+110,Ambiswamy's,41,14,25,1,0,1,4,NaN
+111,Tellicherry Kitchen,33,23,4,3,3,0,4.5,₹300 - ₹500
+112,Rice N Fish,59,22,30,3,2,2,4,NaN
+113,Wok & Grill,61,20,32,4,2,2,4,₹250 - ₹600
+114,Jetty at Forte Kochi,33,19,10,0,0,1,4.5,₹350 - ₹750
+115,Hotel Lucky Star,35,14,13,0,2,0,4.5,NaN
+116,P J Princess Regency,43,21,14,4,1,0,4.5,NaN
+117,Mainland China,120,41,51,11,9,7,4,NaN
+118,East India Company,73,22,34,15,2,0,4,NaN
+119,Tandoor Restaurant,152,40,70,18,6,13,4,₹160 - ₹650
+120,MASH Restocafe Panampilly Nagar,44,15,26,1,1,1,4,₹5 - ₹200
+121,Nila Restaurant,94,26,42,18,4,3,4,NaN
+122,Springs,77,27,33,11,4,1,4,NaN
+123,Tissa's Inn Restaurant,35,18,10,0,2,0,4.5,NaN
+124,Fort Bridge View Restaurant,44,24,13,1,1,1,4.5,NaN
+125,Golden Dragon Restaurant,82,22,38,17,1,3,4,NaN
+126,Arippa Restaurant,61,24,26,4,1,5,4,NaN
+127,District 7 Restro Cafe - Vyttila Ernakulam,28,13,11,2,0,0,4.5,₹60 - ₹499
+128,Pandari's Biriyani,29,13,12,4,0,0,4.5,NaN
+129,Ambiswamy's,111,29,41,27,7,7,3.5,NaN
+130,Raintree Multi Cuisine Restaurant,112,46,28,9,10,11,4,"₹100 - ₹1,000"
+131,Veda Wellness Cafe,21,15,3,1,0,0,5,NaN
+132,Pepper,28,13,9,1,0,0,4.5,"₹1,300 - ₹2,600"
+133,Slice of Spice,29,19,9,0,0,1,4.5,NaN
+134,Tibet Kitchen,36,12,12,4,1,1,4,₹110 - ₹250
+135,Ootupura,70,18,38,11,1,2,4,NaN
+136,"Kadaloram Restaurant, Abad Plaza",36,9,24,3,0,0,4,NaN
+137,Classic Art Cafe,26,16,5,1,2,0,4.5,₹80 - ₹600
+138,Uncle's Restaurant,26,14,9,1,0,1,4.5,NaN
+139,Palace Food Court,95,34,32,13,3,11,4,NaN
+140,Thakkaaram,82,22,39,14,3,4,4,NaN
+141,Indian Coffee House,32,6,23,1,0,0,4,NaN
+142,Ceylon Bake House,86,12,57,10,2,5,4,NaN
+143,No. 18 Hotel Restaurant,31,17,8,0,2,1,4.5,NaN
+144,Kaikka's,43,18,21,3,1,0,4.5,NaN
+145,Los Angeles Cafe Fort Kochi,13,12,0,0,0,0,5,NaN
+146,Ashok Bhavan,37,7,22,8,0,0,4,NaN
+147,Couchyn at The Grand,35,12,18,4,1,0,4,NaN
+148,Iftar Restaurant,47,15,23,4,2,3,4,NaN
+149,Armoury,29,10,11,6,0,0,4,NaN
+150,Mezzo,42,15,20,4,0,3,4,NaN
+151,Binnammas Food Gallery,19,14,3,1,0,0,4.5,NaN
+152,Marina Sea Face Restaurant,14,12,1,0,0,0,5,NaN
+153,Rasa,46,15,22,3,4,2,4,NaN
+154,Malabar Grill's Restaurant,23,15,3,3,0,0,4.5,"₹200 - ₹1,000"
+155,Subway,38,12,18,7,1,0,4,NaN
+156,Cafe Canopy,51,9,26,13,1,2,4,NaN
+157,ChaiCofi,25,9,13,3,0,0,4,NaN
+158,Mustake Multicuisine Restaurant,58,12,29,11,2,3,4,₹200 - ₹350
+159,The Soup Shop,23,8,12,2,0,0,4.5,₹120 - ₹200
+160,Kerala cafe,52,19,14,9,1,4,4,NaN
+161,Arches Restaurant,44,10,16,6,1,4,4,NaN
+162,The Burger Junction,20,6,12,2,0,0,4,NaN
+163,Kettuvallam Family Restaurant,78,16,31,22,3,5,3.5,NaN
+164,Brown's Restaurant,32,14,10,5,1,1,4,"₹100 - ₹1,000"
+165,Zaatar Arabic Restaurant,74,24,30,9,2,9,4,"₹3,250 - ₹4,06,240"
+166,Sulthan Veedu,19,13,4,0,1,1,4.5,₹175 - ₹250
+167,Earth Lounge,166,35,57,42,14,18,3.5,NaN
+168,Hotel Apsara,29,12,12,5,0,0,4,NaN
+169,Hotel Cochin Fort,184,53,49,22,15,30,3.5,NaN
+170,Chiyang. The Chinese Restaurant,102,19,49,18,4,12,3.5,NaN
+171,Traditionz,15,8,6,1,0,0,4.5,NaN
+172,Little Kochi Kafe,19,13,2,1,1,0,4.5,"₹70 - ₹1,000"
+173,Kausthubham,33,6,16,10,1,0,4,"₹6,500 - ₹15,437"
+174,Black Pearl Restaurant,22,7,13,2,0,1,4,NaN
+175,Elements,29,13,9,5,2,0,4,₹8 - ₹500
+176,Hotel and Restaurant Aryaas,28,5,17,5,0,0,4,NaN
+177,"Drop Inn, Restaurant",62,19,21,7,2,5,4,"₹325 - ₹2,437"
+178,Burger Spot,24,9,10,5,0,0,4,NaN
+179,Aryas Vegetarian Restaurant,27,7,13,6,1,0,4,NaN
+180,Beach Inn Seafood restaurant,12,10,2,0,0,0,5,NaN
+181,Subhiksha,48,7,28,7,1,3,4,NaN
+182,Pai Dosa,20,7,9,4,0,0,4,NaN
+183,Cafe Cuba,56,16,18,1,1,7,4,NaN
+184,Mallus Dhaba,15,7,5,3,0,0,4.5,NaN
+185,Peppermint Cafe,21,5,12,2,0,1,4,NaN
+186,The Indian Oven,10,7,1,1,0,0,4.5,"₹200 - ₹1,000"
+187,Diwans's Durbar,41,8,25,3,3,2,4,NaN
+188,Shifu Momos,22,13,7,1,0,1,4.5,NaN
+189,The Zen Garden,8,7,0,0,0,0,5,NaN
+190,Ming's Wok,66,16,30,12,3,5,3.5,NaN
+191,Salt'n'Pepper,48,18,13,3,5,3,4,NaN
+192,Chillies Restaurant,48,11,23,7,4,2,4,NaN
+193,Hotel Sea Gull,26,12,7,4,0,3,4,NaN
+194,Krishna Kripa Seafood Restaurant,53,9,11,7,5,2,3.5,NaN
+195,Itty's,39,6,27,4,1,1,4,NaN
+196,The History and Terrace Grill,48,18,15,3,4,5,4,NaN
+197,Dosa World,19,8,7,4,0,0,4,NaN
+198,Ojeen the Taste of Malabar,29,8,13,7,1,0,4,NaN
+199,Bharat Hotel,17,5,8,4,0,0,4,NaN
+200,Cheenavala,19,5,11,2,1,0,4,NaN
+201,Tower House Restaurant,20,5,10,1,0,0,4,NaN
+202,David Hall Gallery Cafe,11,6,4,0,0,0,4.5,NaN
+203,Cochin Majlis Food Mall,51,12,21,11,3,3,3.5,NaN
+204,Pearlspot,12,8,3,1,0,0,4.5,"₹500 - ₹5,000"
+205,Lagoona By The DUNES Cochin,15,8,5,2,0,0,4.5,₹10 - ₹500
+206,Ginger Gardens,12,6,5,0,0,0,4.5,NaN
+207,Cafe Kochi,13,3,7,0,0,0,4.5,₹80 - ₹400
+208,Febina Restaurant,22,8,8,2,1,0,4.5,NaN
+209,Hotel Shree Aryas Restaurant,25,7,13,3,1,1,4,NaN
+210,gokul restaurant,41,9,20,9,2,1,4,NaN
+211,The Springs,16,10,4,2,0,0,4.5,NaN
+212,The Grill Lab,21,7,10,3,1,0,4,₹6 - ₹500
+213,Fennel,17,10,1,3,3,0,4,NaN
+214,Burgeria,22,9,7,5,0,1,4,NaN
+215,gokul oottupura,52,11,26,8,3,4,3.5,NaN
+216,Zamorin,12,7,4,0,0,1,4.5,"₹47 - ₹1,000"
+217,Domino's Pizza,32,7,16,5,1,2,4,NaN
+218,Blue Waters Resort /Whispering Sands restaurant,39,14,11,7,0,4,4,NaN
+219,Hotel Abhirami Restaurant,14,5,9,0,0,0,4.5,NaN
+220,Delish - Multicuisine Restaurant,7,7,0,0,0,0,5,₹100 - ₹300
+221,Real Arabia,35,12,13,7,2,1,4,NaN
+222,Arya Bhavan,20,8,6,6,0,0,4,NaN
+223,Kafe D Kochi,10,7,2,0,0,0,4.5,"₹20 - ₹1,500"
+224,Chai Nation,22,10,8,3,0,1,4,NaN
+225,Little Maxim's,40,16,11,3,2,4,4,NaN
+226,Ledhi Art Cafe,12,8,4,0,0,0,4.5,"₹2 - ₹1,000"
+227,Hotel and Restaurant Rahmaniya,25,12,7,4,1,1,4,NaN
+228,Jeff Biriyani,14,8,2,2,2,0,4,NaN
+229,The Killians Boutique Restaurant,59,7,25,10,3,6,3.5,NaN
+230,Ceylon Bake House,14,0,12,1,0,0,4,NaN
+231,Swamys Brahmins Family Restaurant,13,3,10,0,0,0,4,NaN
+232,Kerala Kitchen,24,6,11,6,1,0,4,NaN
+233,Hotel Kochin Fort,31,9,11,2,4,2,4,NaN
+234,High Bar,14,6,5,2,0,1,4,"₹300 - ₹1,200"
+235,Hotel Sree Saravana Bhavan,20,8,8,4,0,0,4,NaN
+236,The Clam Multi-Cuisine Restaurant,26,9,11,1,0,3,4,₹50 - ₹50
+237,Carnival Court - Kariyad,21,6,11,3,0,1,4,NaN
+238,Surya Restaurant,41,6,18,12,0,3,3.5,NaN
+239,Hotel Annapoorna,23,11,10,2,0,0,4.5,NaN
+240,1947 Indian Restaurant,13,5,6,1,0,1,4,₹20 - ₹250
+241,Sree Ganapathy Restaurant,37,9,15,9,2,2,3.5,NaN
+242,Leman Cafe & Restaurant,7,4,2,0,0,0,4.5,₹200 - ₹500
+243,Hotel Ananda Bhavan Restaurant,17,5,9,3,0,0,4,NaN
+244,Palaaram,39,12,17,3,3,4,4,₹180 - ₹400
+245,"Aromi Di Italia By Club Mahindra Cherai, Kerala",17,6,6,1,2,0,4,"₹200 - ₹1,500"
+246,Hotel Abhirami Restaurant,23,3,12,7,1,0,3.5,NaN
+247,Breath Cafe Vegan,7,7,0,0,0,0,5,₹20 - ₹300
+248,Timur Kachi Restaurant,10,6,3,1,0,0,4.5,NaN
+249,Dolphins Point,21,7,10,0,1,1,4,"₹1,625 - ₹3,250"
+250,Anjappar Chettinad Restaurant,71,20,22,13,5,10,3.5,NaN
+251,NM Food World Restaurant,23,10,10,3,0,0,4.5,NaN
+252,Travancore,13,7,3,1,1,0,4,NaN
+253,Cafe Royale - Atrium,15,5,5,2,0,0,4,"₹812 - ₹1,625"
+254,Restaurant Lilly Grace,19,5,5,4,0,0,4,"₹250 - ₹1,500"
+255,Jardin Secret,29,17,5,0,2,1,4.5,₹100 - ₹400
+256,B at Bay by Chef Ramu Butler,6,6,0,0,0,0,5,₹250 - ₹600
+257,Arabian Palace,10,5,5,0,0,0,4.5,NaN
+258,Lighthouse Lounge,13,6,5,1,0,1,4,NaN
+259,Hotel Al-Reem,9,6,2,0,0,0,4.5,NaN
+260,Malabar Biriyani House,18,2,13,3,0,0,4,NaN
+261,Udupi Ananda Bhavan Restaurant,15,3,8,4,0,0,4,NaN
+262,Hotel New Aryas Restaurant,12,5,6,1,0,0,4.5,NaN
+263,Golden Dragon,12,3,7,2,0,0,4,NaN
+264,Shantilal S mithaiwala,10,4,6,0,0,0,4.5,NaN
+265,Pulp Factory,17,3,8,5,0,0,4,NaN
+266,Ifthar Hotel,19,6,9,2,1,1,4,NaN
+267,Periyar Multicuisine Restaurant,9,5,2,2,0,0,4.5,NaN
+268,Thai Pavillion,11,9,1,1,0,0,4.5,"₹1,625 - ₹3,250"
+269,Travancore Restaurant,7,5,2,0,0,0,4.5,NaN
+270,Chariot Restaurant,31,4,22,1,1,3,3.5,NaN
+271,Night Chef,9,2,7,0,0,0,4,NaN
+272,Cocoa Tree - Panampily Nagar,22,9,10,0,0,3,4,NaN
+273,Vasco Da Gama Resto Bar,6,5,1,0,0,0,5,"₹1,000 - ₹3,000"
+274,OIivia Restaurant,8,4,4,0,0,0,4.5,₹150 - ₹700
+275,Rajadhani,15,6,6,3,0,0,4,₹162 - ₹162
+276,Pizza Hut,38,9,15,8,6,0,3.5,NaN
+277,Spice It,7,5,2,0,0,0,4.5,NaN
+278,Salkaram Restaurant,7,5,2,0,0,0,4.5,"₹100 - ₹10,000"
+279,Cafe du Mahe,20,10,5,0,0,2,4,NaN
+280,Caper,5,5,0,0,0,0,5,"₹500 - ₹3,500"
+281,Street Menu Restaurant,12,5,5,2,0,0,4.5,NaN
+282,Mamma Restaurant,16,4,8,4,0,0,4,NaN
+283,Alakapuri Hotel,28,8,10,6,3,1,4,NaN
+284,Brindhavan Vegetarian Restaurant,22,8,7,3,1,2,4,NaN
+285,Hotel Ashok Bhavan,12,3,8,1,0,0,4,NaN
+286,The Voyager,25,8,8,4,4,1,3.5,NaN
+287,Kebabistan Restaurant,15,4,8,1,2,0,4,NaN
+288,Palaaram A Traditional Eatery,27,8,8,7,3,1,3.5,₹150 - ₹350
+289,Shibu's Kumbalam Puttu Kada,11,3,7,1,0,0,4,NaN
+290,Hotel Aryaas,8,2,6,0,0,0,4.5,NaN
+291,The Hot Spot,28,11,10,3,0,4,4,NaN
+292,Shivetanta Kada,5,3,0,0,0,0,5,NaN
+293,Cafe de Arabia,18,6,8,3,0,1,4,NaN
+294,Hotel Arul Jyothi Restaurant,15,6,6,1,1,0,4.5,NaN
+295,Baywatch Family Restaurant,79,14,26,20,6,10,3.5,NaN
+296,Mullapanthal Restaurant,26,11,11,2,1,1,4,NaN
+297,Royal Food Court,32,7,15,6,3,1,4,NaN
+298,WaffleBae,6,5,1,0,0,0,5,₹3 - ₹209
+299,Pachamama Artcafe,6,5,1,0,0,0,5,₹100 - ₹250
+300,Ratna Vilas,18,7,7,1,1,1,4,NaN
+301,Empire Plaza,28,6,11,7,1,3,3.5,NaN
+302,Lil' America Cafe & Bistro,6,5,1,0,0,0,5,"₹7,312 - ₹48,749"
+303,Porta Rossa,6,5,0,1,0,0,4.5,₹450 - ₹950
+304,Rassam,13,6,5,1,1,0,4,NaN
+305,Hotel Vasantha Vihar,8,3,5,0,0,0,4.5,NaN
+306,Hotel Annapoorna,19,2,11,6,0,0,4,NaN
+307,Coq D'or,14,3,11,0,0,0,4,NaN
+308,Millenium Continetal,35,8,11,8,5,2,3.5,NaN
+309,The Square,5,5,0,0,0,0,5,NaN
+310,La Pizza10,4,4,0,0,0,0,5,₹250 - ₹350
+311,Sree Krishna Bhavan,11,3,7,0,0,0,4.5,NaN
+312,Grill N Chill,6,3,1,1,0,0,4.5,NaN
+313,Hotel Aishwarya,9,5,2,2,0,0,4.5,NaN
+314,The Big Bang Cafe,5,4,1,0,0,0,5,₹100 - ₹600
+315,Olive,20,9,7,0,2,2,4,NaN
+316,Burger Bees,10,5,4,1,0,0,4.5,NaN
+317,The Mexicana,19,10,4,1,1,3,4,NaN
+318,Sardarji Ka Dhaba,10,1,7,2,0,0,4,NaN
+319,Gokul Oottupura,16,4,10,1,0,1,4,NaN
+320,Rolexio,12,5,5,1,1,0,4,NaN
+321,Confiance Bakehouse,6,4,2,0,0,0,4.5,"₹100 - ₹1,000"
+322,Canosa,6,2,4,0,0,0,4.5,NaN
+323,Cafe Artery,6,3,1,1,0,0,4.5,NaN
+324,Hotel Aryaas Park,15,1,11,2,1,0,4,NaN
+325,The Cookery,6,4,2,0,0,0,4.5,₹50 - ₹250
+326,Cream Stone,8,4,4,0,0,0,4.5,NaN
+327,Down Town Restaurant,11,5,3,3,0,0,4,"₹812 - ₹8,125"
+328,Burger Spot,22,5,8,5,2,1,3.5,NaN
+329,Bolgatty Palace Restaurant,12,3,5,2,1,0,4,NaN
+330,Deli at Gateway,30,7,14,5,1,3,3.5,NaN
+331,"Open Room, Hotel Arches",10,6,3,0,1,0,4.5,NaN
+332,Kadambra Restaurant,21,7,11,0,2,1,4,NaN
+333,Mamma Restaurant,9,2,6,1,0,0,4,NaN
+334,Kettuvallam Restaurant,8,3,3,2,0,0,4,NaN
+335,Arabian Fiesta,17,7,6,2,0,1,4,NaN
+336,Oceanview,9,5,2,0,1,0,4.5,NaN
+337,Seafood Grill Restaurant,7,6,1,0,0,0,5,NaN
+338,The Court House,6,4,1,0,0,0,5,₹25 - ₹250
+339,All Spice,5,4,1,0,0,0,5,"₹40,624 - ₹1,62,496"
+340,Bread World,16,9,4,1,1,1,4,NaN
+341,Hotel Colombo,13,3,4,2,1,0,4,NaN
+342,Pavillion,7,4,3,0,0,0,4.5,NaN
+343,Fort Inn Restaurant,3,3,0,0,0,0,5,₹100 - ₹200
+344,Malabar Plaza,16,4,8,3,0,1,4,NaN
+345,Chillax,8,3,4,1,0,0,4.5,NaN
+346,Arabella Restaurant at Pgs Vedanta,11,4,5,1,1,0,4,NaN
+347,Anandaas,8,4,3,0,0,0,4.5,NaN
+348,Eliete Hotel,11,4,4,0,1,0,4.5,NaN
+349,Kai-Shek Chinese Restaurant,12,5,2,3,0,1,4,NaN
+350,Supreme Upper Crust Kochi,16,4,8,2,0,2,4,₹250 - ₹800
+351,Kochi Brasserie,4,4,0,0,0,0,5,₹175 - ₹375
+352,Rangoli,23,6,8,5,3,1,3.5,NaN
+353,Grande Residencia,15,10,2,1,1,0,4.5,"₹1,625 - ₹8,125"
+354,Arctic Hotel - Paprika,3,3,0,0,0,0,5,"₹20,312 - ₹40,624"
+355,Hangout De Cafe',8,5,3,0,0,0,4.5,NaN
+356,Cinema Cafe,9,3,6,0,0,0,4.5,NaN
+357,Sailing Club House,14,9,2,2,0,1,4.5,NaN
+358,Hot Spot,11,4,5,1,1,0,4,NaN
+359,Regency - Cochin,11,2,7,2,0,0,4,NaN
+360,Concert Hot Breads,8,2,5,1,0,0,4,NaN
+361,Natural,6,3,3,0,0,0,4.5,NaN
+362,Lil' America,21,10,5,3,0,3,4,NaN
+363,Bab Arabia,13,3,6,1,1,1,4,"₹120 - ₹1,800"
+364,Pappadavada,33,8,14,6,0,5,3.5,NaN
+365,Mattancherry Bar,7,4,2,0,0,0,4.5,"₹1,300 - ₹2,600"
+366,Poovath Restaurant,19,8,6,2,0,2,4,NaN
+367,Sanjoe Restaurant,11,4,4,3,0,0,4,NaN
+368,Malabar Plaza,9,2,6,1,0,0,4,NaN
+369,Uduppi Darini Vegetarian Restaurant,8,1,7,0,0,0,4,NaN
+370,District 7,10,5,3,2,0,0,4.5,₹40 - ₹140
+371,Grillz Cafe,4,4,0,0,0,0,5,₹30 - ₹800
+372,Kaali Meeri,3,3,0,0,0,0,5,"₹200 - ₹1,000"
+373,Kaasa kitchen,5,2,2,1,0,0,4,"₹6,500 - ₹18,687"
+374,SREE Muruga CAFE,8,3,4,0,1,0,4,NaN
+375,Arabian Grill Restaurant,7,2,3,0,0,0,4.5,NaN
+376,Golden Fork Restaurant,24,6,8,6,0,3,3.5,NaN
+377,Subway,19,3,7,7,1,0,3.5,NaN
+378,Maruti Vilas Veg Restaurant,9,2,5,2,0,0,4,NaN
+379,Navarathna Restaurant,6,3,2,1,0,0,4.5,NaN
+380,Biriyani Hut,26,5,10,6,4,0,3.5,NaN
+381,Pathummas Kitchen,10,6,3,0,0,1,4.5,NaN
+382,Kobe Sizzlers,15,2,7,3,1,0,3.5,NaN
+383,Ebony & Ivory Asian Kitchen & Cafe,4,3,1,0,0,0,5,₹600 - ₹800
+384,Sukh Sagar Restaurant,10,2,5,3,0,0,4,NaN
+385,Pearl Malabar,6,2,4,0,0,0,4.5,NaN
+386,Cafe17,3,3,0,0,0,0,5,₹500 - ₹700
+387,Hotel Aryaas,14,4,6,2,0,2,3.5,"₹6,500 - ₹24,374"
+388,Tandoorwala,7,2,5,0,0,0,4.5,₹80 - ₹200
+389,Arena,5,3,2,0,0,0,4.5,₹180 - ₹400
+390,Cilantro,9,3,4,2,0,0,4,NaN
+391,East India Street Cafe,11,3,5,1,1,1,3.5,NaN
+392,Anna Cafe,18,2,9,5,1,1,3.5,NaN
+393,Hunters,10,3,4,1,1,0,4,NaN
+394,Poems By The Art Cafe,3,2,1,0,0,0,4.5,₹250 - ₹400
+395,Tasty Land Bakers,5,2,3,0,0,0,4.5,NaN
+396,Frys,4,2,2,0,0,0,4.5,NaN
+397,Bell Restaurant,7,4,3,0,0,0,4.5,NaN
+398,sri Annapurna sweets & restaurant,21,9,7,3,0,2,4,NaN
+399,Pizza Xpress,6,5,0,1,0,0,4.5,NaN
+400,Hotel Abdulkani (Dosakada),6,2,4,0,0,0,4.5,NaN
+401,Fatayer Restaurant,6,5,0,0,0,1,4.5,"₹812 - ₹32,499"
+402,Hotel Saravana Bhavan,12,5,3,2,1,1,4,NaN
+403,Sharma Restaurant,16,5,4,5,1,1,3.5,NaN
+404,The Chocolate Room,8,3,3,2,0,0,4,"₹100 - ₹1,200"
+405,KFC,6,2,4,0,0,0,4.5,NaN
+406,New Malaya Chinese Restaurant,23,6,8,5,2,2,3.5,NaN
+407,Chicking Restaurant,12,5,4,2,0,0,4,NaN
+408,"Chicking Amritha Towers, MG Road",17,5,5,3,0,2,4,NaN
+409,New Trivandrum Chicken Corner,17,3,7,4,2,1,3.5,NaN
+410,Chiyang,12,1,8,2,1,0,4,NaN
+411,Lila's Kitchen,5,4,0,0,0,1,4,"₹600 - ₹2,000"
+412,Indian Coffe House,9,1,7,1,0,0,4,NaN
+413,Afghan,9,3,4,1,0,0,4,"₹250 - ₹1,500"
+414,City View,7,2,3,2,0,0,4,"₹35 - ₹3,500"
+415,Red BAR Restaurant,10,5,2,2,0,1,4,"₹150 - ₹2,000"
+416,Rassam,14,2,9,2,0,1,4,NaN
+417,Tea O Clock Restaurant,7,0,6,0,0,0,4,NaN
+418,Burger Factory,8,3,3,2,0,0,4,₹85 - ₹280
+419,Hotel lakshmi Nivas,7,2,3,2,0,0,4,NaN
+420,Restaurant Courtyard,3,2,0,0,0,0,5,NaN
+421,Holy Smoke BBQ & Grill,5,2,1,1,0,0,4.5,₹150 - ₹450
+422,Shapu Food,6,2,3,1,0,0,4,NaN
+423,Pai Dosa,10,1,6,2,0,1,3.5,NaN
+424,Zaina Bakes & Restaurant,8,3,4,1,0,0,4.5,NaN
+425,The Swad Pure Veg Restaurant,7,3,3,0,1,0,4,NaN
+426,Nadiya Bake & More,6,2,4,0,0,0,4.5,₹5 - ₹250
+427,New Jaya Restaurant,6,3,2,1,0,0,4.5,NaN
+428,oajeen resturent,8,5,3,0,0,0,4.5,NaN
+429,Bombay Bistro,6,2,4,0,0,0,4.5,NaN
+430,Food Garden Family Restaurant,6,2,3,0,1,0,4,NaN
+431,Floret Food Court,9,2,5,2,0,0,4,NaN
+432,Chemmeen- The Village Restaurant,7,1,6,0,0,0,4,₹50 - ₹150
+433,Cafe Mattancherry,4,3,1,0,0,0,5,NaN
+434,Inchino,11,4,5,1,1,0,4,NaN
+435,Biriyani Hut,15,3,8,0,4,0,3.5,NaN
+436,Domino's Pizza,11,3,2,3,2,0,3.5,NaN
+437,Swad Kitchen,3,2,1,0,0,0,4.5,"₹40 - ₹1,000"
+438,Kothambari by Thakkaaram,8,3,4,0,0,1,4,NaN
+439,Khyber Restaurant,9,2,4,3,0,0,4,NaN
+440,Thommoo's Chinese Restaurant,18,1,12,4,0,1,3.5,NaN
+441,Wah Turk Gyros & Grills,2,2,0,0,0,0,5,NaN
+442,Ayodhya Bhavan Pure Vegetarian,7,1,5,1,0,0,4,NaN
+443,Bread World,5,2,3,0,0,0,4.5,NaN
+444,Tree Loft,5,3,2,0,0,0,4.5,NaN
+445,Bread World,14,3,6,2,1,1,3.5,NaN
+446,Emarath Restaurant,3,2,1,0,0,0,4.5,NaN
+447,Spice Villa,4,3,0,1,0,0,4.5,₹300 - ₹500
+448,The LMN,11,2,4,4,0,1,3.5,₹300 - ₹900
+449,"Nasrani Kitchen,Traditional Restaurant",7,2,3,2,0,0,4,NaN
+450,Kurians Taste Buds,10,2,6,1,1,0,4,NaN
+451,Kaasa Basi,5,2,2,1,0,0,4,NaN
+452,Blue Water Cherai,10,0,7,3,0,0,3.5,NaN
+453,Jhivras Foods And Beverages Private Limited,4,3,1,0,0,0,5,₹100 - ₹150
+454,Hotel Malabar,16,2,8,5,0,1,3.5,NaN
+455,Fahrenheit 375,3,2,1,0,0,0,4.5,NaN
+456,Dewland Restaurant,3,3,0,0,0,0,5,₹200 - ₹500
+457,Oberoi Bar & Restaurant,10,2,6,0,1,0,4,NaN
+458,Monsoon Days,6,0,5,1,0,0,4,₹100 - ₹200
+459,Naushad the Big Chef,77,16,20,17,13,11,3,NaN
+460,Food Marley,14,7,3,2,0,2,4,₹100 - ₹600
+461,Alibaba & 41 Dishes,8,3,2,2,0,1,4,NaN
+462,Hotel Fort Queen,19,5,7,2,2,3,3.5,NaN
+463,Club 11 Hundred,9,2,5,1,1,0,4,NaN
+464,Hotel Annapoorna,4,2,2,0,0,0,4.5,NaN
+465,Arabian Food Court,7,1,5,0,0,0,4,NaN
+466,Rahath Restaurant,6,2,3,0,0,0,4,NaN
+467,Mamma Mia Food Court,54,6,17,22,4,5,3.5,NaN
+468,Meen Ruchi Restaurant,6,1,5,0,0,0,4,NaN
+469,Bread World,7,0,6,1,0,0,4,NaN
+470,Baywatch Beach Homes,15,5,6,2,0,2,4,NaN
+471,The Cochin Trader Bar,8,2,3,3,0,0,4,NaN
+472,Thahoor Kitchen,6,2,3,0,0,0,4.5,NaN
+473,Hotel Abirami Restaurant,14,2,3,9,0,0,3.5,NaN
+474,Hotel Ram Nivas,6,1,3,1,0,0,4,NaN
+475,Hotel Aryaas Vegetarian,4,1,3,0,0,0,4.5,NaN
+476,Old Port Restaurant,15,3,5,2,1,0,3.5,NaN
+477,Amor Kitchen,3,1,0,1,0,0,4.5,NaN
+478,The Spice Route,10,3,4,1,1,0,4,NaN
+479,Dhe Chef Multi-cuisine Restaurant,11,3,5,1,1,1,3.5,NaN
+480,Kismath Restaurant,4,3,1,0,0,0,5,NaN
+481,Courtyard by Marriott,6,3,1,2,0,0,4,"₹1,500 - ₹7,000"
+482,New Ananda Bhavan,12,3,6,2,1,0,4,NaN
+483,The Paramount Restaurant,6,1,4,0,0,0,4.5,NaN
+484,Om Sree Saravana Bhavan,7,0,5,2,0,0,3.5,₹15 - ₹130
+485,Molano Ice Ream,10,3,5,1,0,1,4,NaN
+486,Hotel Brothers Restaurant,4,2,2,0,0,0,4.5,NaN
+487,Deli,2,2,0,0,0,0,5,"₹14 - ₹1,000"
+488,Restarant Chef Pillai,4,3,0,0,1,0,4.5,NaN
+489,Bread World,10,0,7,3,0,0,3.5,NaN
+490,Max Fun,11,1,8,0,0,2,3.5,NaN
+491,Ojin,5,3,1,1,0,0,4.5,NaN
+492,Maria Restaurant,4,1,3,0,0,0,4.5,NaN
+493,Food Stop Diner,3,2,1,0,0,0,4.5,NaN
+494,The Food Mill Restaurant,3,2,1,0,0,0,4.5,NaN
+495,Cana Maria,4,2,0,0,0,0,5,NaN
+496,Hotel Pathempuram,2,2,0,0,0,0,5,NaN
+497,Royal Food Court,11,3,5,2,0,1,4,NaN
+498,Khana Peena,2,2,0,0,0,0,5,NaN
+499,Aswin Restaurant,11,3,6,0,1,1,4,NaN
+500,Tarmac- Riders' cafe & restaurant,2,2,0,0,0,0,5,NaN
+501,Hotel Le Bake'S,4,2,2,0,0,0,4.5,₹100 - ₹500
+502,Hot Chicken,5,4,1,0,0,0,5,NaN
+503,Hotel Kappithan & Restaurant,4,2,2,0,0,0,4.5,NaN
+504,Hotel California,5,2,2,1,0,0,4,NaN
+505,Mughal Restaurant,9,1,3,4,1,0,3.5,NaN
+506,Currymean Restaurant,6,2,3,1,0,0,4,"₹894 - ₹16,250"
+507,Food Marley,5,2,3,0,0,0,4.5,NaN
+508,Hotel Sona,4,1,3,0,0,0,4.5,NaN
+509,Cafe La Paillote,6,5,0,0,0,1,4.5,NaN
+510,Cafe Route 66,8,2,4,1,1,0,4,₹200 - ₹600
+511,Calicut Notebook Restaurant,7,1,5,0,0,1,3.5,NaN
+512,Pure Vegetarian Hotel,5,1,4,0,0,0,4,NaN
+513,Hotel Abirami Restaurant,5,1,4,0,0,0,4,NaN
+514,Nalukettu Restaurant,6,3,1,2,0,0,4,NaN
+515,Yummy's Chick,5,1,4,0,0,0,4,NaN
+516,Cafe Del Mar,32,9,8,6,1,5,3.5,NaN
+517,Kitchenlady Family Restaurant Angamaly,4,1,3,0,0,0,4.5,₹50 - ₹250
+518,Green Pepper,2,1,1,0,0,0,4.5,NaN
+519,Travel Lounge Kochi,6,2,1,2,0,0,4,₹100 - ₹500
+520,Punjabi Dhaba,4,2,2,0,0,0,4.5,NaN
+521,Tea Bungalow,9,2,5,1,0,1,4,NaN
+522,Seapark,6,3,1,1,1,0,4,NaN
+523,Hotel Aryaas Vegetarian,3,2,1,0,0,0,4.5,NaN
+524,Foodie Chinese Restaurant,3,2,1,0,0,0,4.5,"₹100 - ₹1,000"
+525,Domino's Pizza,7,0,5,1,0,0,4,NaN
+526,O.v.a Restaurant,3,2,1,0,0,0,4.5,₹80 - ₹200
+527,Bbq Square,8,1,5,2,0,0,4,NaN
+528,Swargam Backwaters,2,1,1,0,0,0,4.5,NaN
+529,Saravana Bhavan,12,1,7,2,0,2,3.5,NaN
+530,Shawarma Daddy,2,2,0,0,0,0,5,NaN
+531,Mizaj,4,1,3,0,0,0,4.5,NaN
+532,Mappila Kada,13,4,6,0,1,2,3.5,NaN
+533,Holiday Hotel,2,1,0,0,0,0,5,"₹100 - ₹1,000"
+534,The Machli Restaurant,2,2,0,0,0,0,5,NaN
+535,Donut House,4,2,2,0,0,0,4.5,₹60 - ₹140
+536,Balos Restaurant,3,2,1,0,0,0,4.5,NaN
+537,NBC Restaurant,14,4,3,5,1,1,3.5,NaN
+538,Pizza Hut,19,2,10,2,2,1,3.5,NaN
+539,Baby chettan's chaya kada,4,2,2,0,0,0,4.5,NaN
+540,Chennai Ananda Bhavan,15,2,5,6,1,1,3.5,NaN
+541,Ten Eleven The Taste Makers,4,2,1,1,0,0,4.5,NaN
+542,Food Factor,3,2,1,0,0,0,4.5,NaN
+543,Kummattikka Juice,4,1,3,0,0,0,4.5,NaN
+544,Cochin Biriyani Kada,7,1,4,2,0,0,4,NaN
+545,Fishy's Fish & Chips,7,0,5,2,0,0,3.5,NaN
+546,Saravana Bhavan,2,2,0,0,0,0,5,NaN
+547,Chandrus Restaurant,7,0,5,2,0,0,3.5,NaN
+548,Goli Vada Pav Mattancherry,6,1,4,1,0,0,4,NaN
+549,Adukkala by Ithappiris,10,2,5,1,1,1,3.5,NaN
+550,Samovar,4,1,3,0,0,0,4.5,NaN
+551,Vijayalakhshmi Hotel Restaurant,6,2,3,0,1,0,4,NaN
+552,Bhatt's Tiffinbox,2,2,0,0,0,0,5,NaN
+553,Oru PuzhaMeen Restaurant,2,2,0,0,0,0,5,NaN
+554,Buzz Deli Cafe - Cherai Beach,2,2,0,0,0,0,5,₹100 - ₹300
+555,Minha Restaurant,6,3,2,0,0,1,4,NaN
+556,Hotel Sea Gate Restaurant,4,2,2,0,0,0,4.5,NaN
+557,Green Tree Restaurant,2,1,0,0,0,0,5,NaN
+558,Ammaveedu Pure Vegetarian Restaurant,5,1,4,0,0,0,4,NaN
+559,Kailash Parbat,11,1,7,1,0,2,3.5,NaN
+560,Hoggers Gourmet,2,2,0,0,0,0,5,NaN
+561,Hotel Manakkil Restaurant,6,2,2,2,0,0,4,NaN
+562,Chiyang Restaurant,22,3,9,4,2,3,3.5,NaN
+563,Metropolitan Restaurant,5,0,5,0,0,0,4,NaN
+564,Talented Kadai,2,2,0,0,0,0,5,₹50 - ₹150
+565,Zaki,6,1,3,2,0,0,4,NaN
+566,Hotel Paradise Restaurant,11,2,6,1,1,1,3.5,NaN
+567,The Kitchen,3,1,2,0,0,0,4.5,NaN
+568,Royal Food Park,8,2,3,2,1,0,4,NaN
+569,Chak De Restaurant,16,2,6,5,0,2,3.5,NaN
+570,Caza Maria,8,2,2,1,0,0,4,NaN
+571,Muruga Hotel Restaurant,3,1,2,0,0,0,4.5,NaN
+572,Mi Casa Bbq Steak Burgers,4,1,2,1,0,0,4,"₹150 - ₹2,000"
+573,The Second Wife,3,2,1,0,0,0,4.5,₹15 - ₹250
+574,Cafe Terrazza,11,4,1,3,0,1,3.5,NaN
+575,Festa Bakes and Grills,12,1,9,0,1,1,3.5,NaN
+576,Bake Factory & Thaliya Restaurant,4,1,2,1,0,0,4,₹70 - ₹350
+577,Mare Blu,3,2,0,1,0,0,4.5,"₹12,187 - ₹48,749"
+578,China Town,4,1,2,1,0,0,4,NaN
+579,ATLANTA Cafe And Restaurant,6,2,3,0,0,1,4,NaN
+580,Mamma Family Restaurant & Ice Cream,4,2,1,1,0,0,4.5,NaN
+581,Ceecee Bakery & Coffee Shop,6,1,2,3,0,0,3.5,NaN
+582,Hotel Paradise,11,1,7,1,1,1,3.5,NaN
+583,Kuttimulla,6,1,4,1,0,0,4,NaN
+584,Le Colonial's Lord Mountbatten,3,2,1,0,0,0,4.5,NaN
+585,Mummy's Udupi Hotel,3,0,3,0,0,0,4,NaN
+586,City Kitchen,2,2,0,0,0,0,5,NaN
+587,Pizza Pie,7,2,3,1,0,1,3.5,NaN
+588,Chai Kada,8,3,2,1,0,1,4,NaN
+589,Pristine,3,1,2,0,0,0,4.5,"₹10 - ₹5,000"
+590,Esha Muziris,3,1,2,0,0,0,4.5,₹100 - ₹300
+591,Chimes,3,1,2,0,0,0,4.5,NaN
+592,Food Garden Restaurant,2,1,1,0,0,0,4.5,NaN
+593,Rochas Cafe & Bistro,NaN,2,0,2,1,0,3.5,NaN
+594,Indian Coffee House,2,1,1,0,0,0,4.5,NaN
+595,Zesti Arabia,2,1,1,0,0,0,4.5,₹70 - ₹600
+596,Cafe Zero Degree,4,2,0,2,0,0,4,NaN
+597,Vasco Cafe,3,2,0,1,0,0,4.5,NaN
+598,Ifthar,3,0,3,0,0,0,4,NaN
+599,Imperial Family Restaurant,5,0,4,1,0,0,4,NaN
+600,Abhinandan Veg Restaurant,7,1,3,2,1,0,3.5,₹100 - ₹500
+601,Primate Raw Food,3,1,2,0,0,0,4.5,NaN
+602,Vattapparambu,1,1,0,0,0,0,5,NaN
+603,Mughal Restaurant,2,1,1,0,0,0,4.5,NaN
+604,Selfie tea,1,1,0,0,0,0,5,₹100 - ₹400
+605,Al Saj Restaurant,3,2,0,1,0,0,4.5,NaN
+606,Sehion Restaurant,5,1,2,2,0,0,4,NaN
+607,Rain Tree,12,3,2,3,1,2,3.5,NaN
+608,Courtyard Multicuisine Restaurant,6,1,3,1,1,0,3.5,NaN
+609,Arabian Nights,10,1,5,2,1,1,3.5,NaN
+610,Bayleaf Indian Restaurant,4,2,1,1,0,0,4.5,₹60 - ₹350
+611,Mc Fun Bakers And Restaurant,5,1,2,2,0,0,4,NaN
+612,Ramees,7,3,1,1,1,1,3.5,NaN
+613,Creamland Restaurant,3,1,2,0,0,0,4.5,NaN
+614,Lagoon Restaurant,5,2,2,0,0,1,4,NaN
+615,Shiva's Dosa,2,1,1,0,0,0,4.5,NaN
+616,Wow Momos,18,2,7,5,2,2,3.5,NaN
+617,Chicking Restaurant,10,0,4,5,0,0,3.5,NaN
+618,The Pavilion,1,1,0,0,0,0,5,NaN
+619,Smoki Ice Bubble Tea Shop,2,1,1,0,0,0,4.5,NaN
+620,Downtown Cafe,6,1,1,4,0,0,3.5,NaN
+621,Thampi's Chayakkada,4,1,3,0,0,0,4.5,NaN
+622,Bimbis Fast Food and Sweets,38,1,17,13,2,5,3,NaN
+623,Rahmania,1,1,0,0,0,0,5,NaN
+624,Kadamakudy Kallu Shop,4,3,0,0,0,1,4,NaN
+625,Pepper,1,1,0,0,0,0,5,NaN
+626,Rao's Pure Vegetarian Restaurant,2,1,1,0,0,0,4.5,NaN
+627,Hotel Mount Park Inn,2,1,1,0,0,0,4.5,NaN
+628,Al-gusto Resto Cafe,1,1,0,0,0,0,5,NaN
+629,District 7 Encore,1,1,0,0,0,0,5,NaN
+630,Momoz Corner,4,1,2,1,0,0,4,NaN
+631,Chai Chillum Chappathi,5,0,4,1,0,0,4,NaN
+632,Harvest - Hotel Broad Bean,6,1,3,1,1,0,3.5,NaN
+633,Wah Turk Gyros And Grills,1,1,0,0,0,0,5,NaN
+634,Nature Health Food Restaurant,1,1,0,0,0,0,5,NaN
+635,Ming's Dumpling House,3,1,1,0,0,0,4,NaN
+636,Hotel Ragam Restaurant,5,1,2,2,0,0,4,NaN
+637,Cafe Delaviz,1,1,0,0,0,0,5,NaN
+638,Shifu's Kitchen,2,1,1,0,0,0,4.5,₹60 - ₹120
+639,Bombay Kulfi,6,0,4,1,1,0,3.5,NaN
+640,Mirchi Dhaba,10,2,4,2,0,2,3.5,NaN
+641,Lakeway Resto Cafe,1,1,0,0,0,0,5,₹10 - ₹350
+642,Subway,2,2,0,0,0,0,5,NaN
+643,Hotel Radha Nivas,4,0,4,0,0,0,4,NaN
+644,K.R. Bakes,8,2,3,2,0,1,3.5,NaN
+645,Kadayil Oru Thattukada,7,0,5,1,1,0,3.5,NaN
+646,Volga Restaurant,6,1,1,4,0,0,3.5,NaN
+647,Thattu Ruchi,2,1,1,0,0,0,4.5,"₹20 - ₹1,000"
+648,Green Chilly,5,1,2,2,0,0,4,NaN
+649,Hot Wok,15,2,5,6,1,1,3.5,NaN
+650,Wow Momo,3,0,3,0,0,0,4,NaN
+651,Jap Pizzeria,1,1,0,0,0,0,5,₹201 - ₹500
+652,Curry Pot Restaurant,5,1,3,0,1,0,4,NaN
+653,Pepper Boat,1,1,0,0,0,0,5,NaN
+654,Mellow Manna,10,0,6,2,1,1,3.5,NaN
+655,Four Aces Restaurant,2,1,1,0,0,0,4.5,NaN
+656,Blue Sea Family Restaurant,2,1,1,0,0,0,4.5,NaN
+657,Al Har Restaurant,3,1,1,1,0,0,4,NaN
+658,12 to 12 BBQ,7,1,4,1,0,1,3.5,NaN
+659,Biriyani Hut,5,1,2,1,1,0,3.5,NaN
+660,Mathai Makkal,3,0,3,0,0,0,4,₹150 - ₹250
+661,Italian Gelato,3,0,3,0,0,0,4,NaN
+662,Hotel Seagate Restaurant,3,0,3,0,0,0,4,NaN
+663,Tea Junction,2,1,1,0,0,0,4.5,NaN
+664,The Hideout Cafe And Bakers,2,1,1,0,0,0,4.5,₹30 - ₹75
+665,Bread World Thevara,2,0,2,0,0,0,4,"₹100 - ₹1,000"
+666,Udipi Anantha Bhavan,4,0,3,1,0,0,4,NaN
+667,Calimiro Restaurant,2,1,1,0,0,0,4.5,NaN
+668,MeltyWay,1,1,0,0,0,0,5,₹65 - ₹300
+669,Mayyazhi Restaurant,3,1,2,0,0,0,4.5,NaN
+670,Ente Bhoomi,5,2,2,0,0,1,4,NaN
+671,Food Village,8,0,6,1,0,1,3.5,NaN
+672,Chinese Garden,13,1,6,3,2,0,3.5,NaN
+673,Chutney's,2,1,1,0,0,0,4.5,NaN
+674,Swirl,6,3,1,1,0,1,4,NaN
+675,Chicken Days,4,0,3,1,0,0,4,NaN
+676,Sri Mu Saravana Bhavan,28,2,14,5,0,5,3.5,NaN
+677,Springr Cafe,2,1,1,0,0,0,4.5,NaN
+678,Oppol,2,1,1,0,0,0,4.5,NaN
+679,Fort Cafe and Restaurant,3,0,3,0,0,0,4,NaN
+680,Vella Kanthari Restaurant,8,4,0,2,0,2,3.5,NaN
+681,K R Bakers,15,0,7,6,0,2,3,NaN
+682,Red Sauce,2,1,1,0,0,0,4.5,NaN
+683,Kumbalangi Grill House,1,1,0,0,0,0,5,₹8 - ₹450
+684,Treasure Trove,2,1,1,0,0,0,4.5,NaN
+685,Appu Aur Pappu,6,0,4,1,0,1,3.5,NaN
+686,Anjappar Restaurant,2,0,2,0,0,0,4,NaN
+687,Westleys Restocafe - Mamangalam,3,2,0,0,0,1,3.5,NaN
+688,K R Bakes,9,1,5,2,0,1,3.5,NaN
+689,Kabirs Just Biryani,3,1,2,0,0,0,4.5,NaN
+690,Machli Restaurant,1,1,0,0,0,0,5,NaN
+691,Ganga Restaurant,1,1,0,0,0,0,5,NaN
+692,Doner Kebab,9,1,4,3,0,1,3.5,NaN
+693,Quick Snacks,4,0,3,1,0,0,4,NaN
+694,Hi Dosa Restaurant,2,1,1,0,0,0,4.5,NaN
+695,Brindhavan Restaurant,1,1,0,0,0,0,5,NaN
+696,Naga's,6,0,3,3,0,0,3.5,NaN
+697,Breeze Hotel,6,1,1,4,0,0,3.5,NaN
+698,Indian Coffee House,3,0,2,1,0,0,3.5,NaN
+699,Hotel Arias Pure Veg,1,1,0,0,0,0,5,NaN
+700,Hibas Restaurant,1,1,0,0,0,0,5,NaN
+701,Hotel Chaitram Restaurant,1,1,0,0,0,0,5,NaN
+702,Insaf Foods India,1,1,0,0,0,0,5,NaN
+703,Ifthar Hotel,5,0,3,2,0,0,3.5,NaN
+704,"Mary,s Foods",1,1,0,0,0,0,5,"₹100 - ₹1,000"
+705,7 Spices Multi Cusine Restaurant,1,1,0,0,0,0,5,"₹100 - ₹1,000"
+706,Ajooba Restaurant,1,1,0,0,0,0,5,NaN
+707,The Temple of Bacchus,2,0,2,0,0,0,4,NaN
+708,Chinese Garden,15,0,5,8,2,0,3,NaN
+709,Bloomsbury,1,1,0,0,0,0,5,NaN
+710,The Roti,1,1,0,0,0,0,5,"₹13,812 - ₹32,499"
+711,Indian Coffeee House,2,0,2,0,0,0,4,NaN
+712,Sea Park Restaurant,5,1,1,3,0,0,3.5,NaN
+713,Bamboo Groves Restaurant,2,1,1,0,0,0,4.5,NaN
+714,Cilantro,2,0,2,0,0,0,4,NaN
+715,Porta Rossa,1,1,0,0,0,0,5,NaN
+716,Erivum Puliyum,7,2,1,3,0,1,3.5,NaN
+717,Twenty 20 Food Mall,1,1,0,0,0,0,5,NaN
+718,Monsoon Cafe,3,1,2,0,0,0,4.5,NaN
+719,Match Point,3,0,3,0,0,0,4,NaN
+720,Oru Pazhampori Kadha - OPK CAFE,1,1,0,0,0,0,5,NaN
+721,Muziris Pattanam,2,1,1,0,0,0,4.5,NaN
+722,Cream Craft,2,0,2,0,0,0,4,₹200 - ₹400
+723,Hotel Gusto Malabar,2,2,0,0,0,0,5,NaN
+724,Hare Krishna Cafe and Bakery,1,1,0,0,0,0,5,₹20 - ₹90
+725,Blue Bell,11,3,4,0,1,2,3.5,"₹406 - ₹1,625"
+726,Coqdor,3,1,1,1,0,0,4,NaN
+727,Honey Cane Juicery,2,1,0,1,0,0,4,NaN
+728,Yummy Kitchens,3,1,1,1,0,0,4,₹150 - ₹300
+729,The French Press Cafe,3,2,0,1,0,0,4.5,NaN
+730,Flavours Lounge Restaurant,3,1,2,0,0,0,4.5,NaN
+731,Pai's Cool Bar,1,1,0,0,0,0,5,NaN
+732,Puththu Hotel,1,1,0,0,0,0,5,NaN
+733,Mahe Restaurant & Party Hall,1,1,0,0,0,0,5,₹10 - ₹200
+734,Jack Tree,1,1,0,0,0,0,5,₹60 - ₹100
+735,Ifthar,6,4,1,0,0,1,4,NaN
+736,Zaatar Arabic Restaurant,4,1,2,0,0,1,3.5,"₹40 - ₹5,000"
+737,Mappas Restaurant,1,1,0,0,0,0,5,₹300 - ₹500
+738,Sasya Pure Vegetarian Restaurant,2,0,2,0,0,0,4,₹8 - ₹200
+739,Cafe Lat Long,1,1,0,0,0,0,5,NaN
+740,Cochin Tiffins,2,0,2,0,0,0,4,NaN
+741,Hotel Harbour View Residency Restaurant,20,4,4,3,6,2,3,NaN
+742,Thali Restaurant,3,0,3,0,0,0,4,NaN
+743,Hotel Anandhaas,7,1,5,0,0,1,3.5,NaN
+744,Hotel Paris Restaurant,3,0,3,0,0,0,4,NaN
+745,Mita Pani,3,0,2,1,0,0,3.5,₹20 - ₹100
+746,Balaji Restaurant,1,1,0,0,0,0,5,NaN
+747,Oottupura Restaurant,2,0,2,0,0,0,4,NaN
+748,Hotel Jas Regency Multi Cusine AC Restaurant,3,0,2,1,0,0,3.5,NaN
+749,Kafe KopiLuwak,1,1,0,0,0,0,5,NaN
+750,Kalakriti,1,1,0,0,0,0,5,NaN
+751,Food Circle,2,0,2,0,0,0,4,NaN
+752,Kausthubham Restaurant,6,1,1,4,0,0,3.5,NaN
+753,Chennai Thattu Dosai,1,1,0,0,0,0,5,NaN
+754,Cafe Coffee Day,1,1,0,0,0,0,5,NaN
+755,Zaina Food Court,7,0,2,5,0,0,3.5,NaN
+756,Beanz n Brainz,2,0,2,0,0,0,4,NaN
+757,Courtyard Restaurant at The Classik Fort,5,2,2,0,0,1,4,NaN
+758,Cinnamon Restaurant,2,0,2,0,0,0,4,₹80 - ₹300
+759,Calicut Notebook Restaurant,19,3,9,1,0,6,3,NaN
+760,Beach Garden Cafe,1,1,0,0,0,0,5,NaN
+761,Shawarma Expres,2,1,0,1,0,0,4,NaN
+762,Sudheesh Cafe,2,0,2,0,0,0,4,NaN
+763,Anuragham Restaurant,2,0,2,0,0,0,4,NaN
+764,Sreekrishna Hotel,2,0,2,0,0,0,4,NaN
+765,Kaira,6,1,4,0,0,1,3.5,NaN
+766,Hotel Mezban Restaurant,11,0,4,5,2,0,3,NaN
+767,Kaati Zone,2,1,0,1,0,0,4,NaN
+768,Kfc,5,2,2,0,0,1,4,NaN
+769,Sayanna Roof Top Restaurant,2,2,0,0,0,0,5,NaN
+770,Ambiswamy's,6,1,2,2,0,1,3.5,NaN
+771,Master Chef Corner,2,0,2,0,0,0,4,NaN
+772,Garden Restaurant,2,0,1,0,0,0,4,NaN
+773,Noodle King,8,0,3,3,1,0,3.5,NaN
+774,Pizza Xpress,2,0,2,0,0,0,4,NaN
+775,Yo! Wok,1,1,0,0,0,0,5,NaN
+776,Snacko,1,1,0,0,0,0,5,₹100 - ₹250
+777,McDonald's,8,1,4,1,0,1,3.5,NaN
+778,Junction - Naadan Kozhi Perattu Vyaparam,1,1,0,0,0,0,5,₹30 - ₹170
+779,Domino's Pizza,33,7,10,5,3,8,3,NaN
+780,Beach Inn Seafood restaurant,1,1,0,0,0,0,5,₹150 - ₹750
+781,Raja Restaurant,2,1,1,0,0,0,4.5,NaN
+782,Burger & More,2,0,2,0,0,0,4,NaN
+783,Maruti Restaurant,2,0,2,0,0,0,4,NaN
+784,Aavi Express Take Away,6,2,1,2,0,1,3.5,NaN
+785,Kitchen Tellicherry,32,6,9,8,1,8,3,NaN
+786,Annalakshmi,8,0,4,2,2,0,3.5,NaN
+787,Cool Of Cools,2,0,2,0,0,0,4,₹25 - ₹250
+788,Hotel Hacco,1,0,1,0,0,0,4,NaN
+789,Wow Momos,2,0,2,0,0,0,4,NaN
+790,Ann's Residency,10,4,1,3,0,2,3.5,NaN
+791,Cochin Food Mall,6,1,0,5,0,0,3.5,NaN
+792,Hotel Sehiyon Ootushala,6,0,2,4,0,0,3.5,NaN
+793,Pai Dosa 36 - Elamkulam,1,0,1,0,0,0,4,NaN
+794,Mr. Idli,4,0,3,0,1,0,3.5,₹100 - ₹200
+795,Thara Restaurant,2,0,1,1,0,0,3.5,NaN
+796,Bob Marley Cafe,28,3,5,7,3,1,3,NaN
+797,Grameen Ruchi,2,0,2,0,0,0,4,NaN
+798,Choccochino,2,0,2,0,0,0,4,NaN
+799,The Pavilion,7,0,4,2,0,1,3.5,NaN
+800,Side Walk Cafe,4,0,2,2,0,0,3.5,₹4 - ₹15
+801,Manna Restaurant,1,0,1,0,0,0,4,NaN
+802,Four Foods Hotels Restaurant,4,1,0,3,0,0,3.5,NaN
+803,Exotica,2,0,2,0,0,0,4,NaN
+804,Arabian Fil Fil,3,1,1,0,1,0,3.5,NaN
+805,Mermaid Hotel Restaurant,15,2,6,1,3,3,3,NaN
+806,Fort Cochin Seafood Speciality Kitchen & Lounge,1,1,0,0,0,0,5,NaN
+807,Breeze Hotel,5,0,4,0,0,0,3.5,NaN
+808,24 Carat Multi Cuisine Restaurant,2,0,0,1,0,0,4,NaN
+809,Malabar Canteen,1,0,1,0,0,0,4,NaN
+810,Retro Lounge,1,0,1,0,0,0,4,NaN
+811,Yamuna Roof Garden,1,0,1,0,0,0,4,NaN
+812,Match Point,1,0,1,0,0,0,4,NaN
+813,Green Chillies,1,1,0,0,0,0,5,NaN
+814,Magic Oven,1,0,1,0,0,0,4,NaN
+815,Oberoi Restaurant,1,0,1,0,0,0,4,NaN
+816,Cafes and bistros,1,0,1,0,0,0,4,₹29 - ₹299
+817,Monkey Cane,1,0,1,0,0,0,4,NaN
+818,Half Moon Bar,1,0,1,0,0,0,4,NaN
+819,Masala Box,3,0,1,1,0,0,3.5,NaN
+820,Cafe Street,1,0,1,0,0,0,4,NaN
+821,Hot Plate,3,0,2,1,0,0,3.5,NaN
+822,Feast,2,0,1,1,0,0,3.5,₹299 - ₹998
+823,Irinjalakada,1,0,1,0,0,0,4,NaN
+824,K R Bakes,1,0,1,0,0,0,4,NaN
+825,Rahath Restaurant,4,0,3,0,0,1,3.5,"₹250 - ₹1,500"
+826,RAW Squeezed Salads Soups,1,0,1,0,0,0,4,NaN
+827,Ramnath & Co,2,0,1,1,0,0,3.5,NaN
+828,Bell Pepper Cafe,1,0,1,0,0,0,4,NaN
+829,Filter Cup,1,0,1,0,0,0,4,₹8 - ₹100
+830,Shaan E Punjab,1,0,1,0,0,0,4,NaN
+831,Amul Ice Cream Parlour,1,0,1,0,0,0,4,NaN
+832,Trivandrum Chicken Corner,1,0,1,0,0,0,4,NaN
+833,Gangsta Wrap,2,0,1,1,0,0,3.5,₹150 - ₹300
+834,Hotel Mezban,2,0,1,1,0,0,3.5,NaN
+835,Chariot Beach Restaurant,81,7,22,18,8,11,3,NaN
+836,Hotel Aryaas Park Main Avenue,1,0,1,0,0,0,4,NaN
+837,Sadya At Thanal,1,0,1,0,0,0,4,₹100 - ₹500
+838,Flakes Restaurant and Bake House,1,0,1,0,0,0,4,NaN
+839,Oonumuri,1,0,1,0,0,0,4,NaN
+840,Rasaleela,1,0,1,0,0,0,4,NaN
+841,Cochin Restaurant,1,0,1,0,0,0,4,NaN
+842,Daawat E-Khas,1,0,1,0,0,0,4,NaN
+843,Bharani Restaurant,1,0,1,0,0,0,4,₹20 - ₹400
+844,Oberoi Residency And Restaurant,2,0,1,1,0,0,3.5,NaN
+845,Rain Drops,1,0,1,0,0,0,4,NaN
+846,Chaat Street,1,0,1,0,0,0,4,NaN
+847,ChuttathumPorichathum,1,0,1,0,0,0,4,₹10 - ₹400
+848,Leaves,1,0,1,0,0,0,4,NaN
+849,Yas Restaurant,1,0,1,0,0,0,4,NaN
+850,Seagrill Restaurant,1,0,1,0,0,0,4,NaN
+851,Coffee Corner,1,0,1,0,0,0,4,NaN
+852,The Royal Gourmet,1,0,1,0,0,0,4,NaN
+853,WalkInn Diner,1,0,1,0,0,0,4,₹120 - ₹300
+854,Noodle King,3,1,1,0,1,0,3.5,NaN
+855,Arabian treat,1,0,1,0,0,0,4,NaN
+856,Parampara Restaurant,2,0,1,1,0,0,3.5,NaN
+857,Haveli - Abad,10,0,5,2,0,2,3,"₹812 - ₹8,125"
+858,18 Degree Rooftop Bistro Sports Bar,2,1,0,0,1,0,3.5,NaN
+859,Hotel Premier Restaurant,1,0,1,0,0,0,4,NaN
+860,Annapoorna Hotel,1,0,1,0,0,0,4,NaN
+861,Cafe Cochin,1,0,1,0,0,0,4,NaN
+862,Cookie Shop,1,0,1,0,0,0,4,NaN
+863,Chicking Fried Chicken,1,0,1,0,0,0,4,NaN
+864,Drunken Coconut Bar & Cafe,1,0,1,0,0,0,4,NaN
+865,Cafe Green,1,0,1,0,0,0,4,"₹100 - ₹2,000"
+866,Falafel House,1,0,1,0,0,0,4,NaN
+867,Aishwarya Restaurant & Bar,1,0,1,0,0,0,4,NaN
+868,Penguin Restaurant International,1,0,1,0,0,0,4,NaN
+869,Food Express,1,0,1,0,0,0,4,NaN
+870,ali baba & 41 Dishes,4,1,2,0,0,1,3.5,NaN
+871,Zaina Bakers & Biriyani House,1,0,1,0,0,0,4,NaN
+872,Johnson's Rainbow Restaurant,2,0,1,1,0,0,3.5,NaN
+873,Restaurant Crystal Plaza,5,1,0,3,1,0,3,NaN
+874,Grandma Restaurant,1,1,0,0,0,0,5,"₹325 - ₹1,056"
+875,Panjabi Zaika,1,0,1,0,0,0,4,NaN
+876,Chai Chillum Chappati,1,0,1,0,0,0,4,NaN
+877,Hot & Spicy,1,0,1,0,0,0,4,NaN
+878,Biryaneez,1,0,1,0,0,0,4,NaN
+879,River Cafe,1,0,1,0,0,0,4,NaN
+880,Jade Multicuisine Restaurant,2,0,1,1,0,0,3.5,NaN
+881,A. R. Restaurant,1,0,1,0,0,0,4,NaN
+882,Lotus,1,0,1,0,0,0,4,NaN
+883,Potpourri,6,1,3,1,0,1,3.5,NaN
+884,Annapurna Family Restaurant,2,0,1,1,0,0,3.5,NaN
+885,Steak & Fries,1,0,1,0,0,0,4,NaN
+886,Friends Restaurant,1,0,1,0,0,0,4,NaN
+887,Erum Puleem,1,0,1,0,0,0,4,NaN
+888,The Pantry,1,0,1,0,0,0,4,NaN
+889,Kayee's Food Court,1,0,1,0,0,0,4,NaN
+890,De Cafe Canopy,3,0,1,2,0,0,3.5,NaN
+891,Benolima Smoke House,1,0,1,0,0,0,4,NaN
+892,K.R. Bakes,1,0,1,0,0,0,4,NaN
+893,Malabar Rasoy,1,0,1,0,0,0,4,NaN
+894,Amritha Family Restaurant,3,0,2,0,0,1,3,NaN
+895,Nbc Sona,2,0,1,1,0,0,3.5,NaN
+896,Alankar Tourist Home Restaurant,7,0,2,4,0,1,3,NaN
+897,Biryani Hut,10,0,4,4,1,1,3,NaN
+898,Truffles,1,0,1,0,0,0,4,NaN
+899,Kai-Shek,1,0,1,0,0,0,4,NaN
+900,Ozone Roof Top Restaurant,5,2,0,1,0,2,3,NaN
+901,Hotel Sri Aryas,2,1,0,0,1,0,3.5,NaN
+902,Malabar Plaza,12,2,3,4,1,2,3,NaN
+903,Uslampetty Hotel Restaurant,3,0,2,0,1,0,3.5,NaN
+904,Rappai's Thattinpuram Restaurant,6,0,3,1,1,1,3,NaN
+905,DEAGLE Arabian Hut,3,1,1,0,0,1,3.5,"₹2,031 - ₹20,312"
+906,Kettuvallam Seafood Speciality Restaurant,4,1,1,1,0,1,3.5,NaN
+907,Chicken Chicago,3,0,1,1,1,0,3,NaN
+908,Just Tiffin's,4,0,3,0,0,1,3.5,NaN
+909,Ummis Kitchen,4,1,1,1,0,1,3.5,NaN
+910,Food Pecker,1,0,0,1,0,0,3,NaN
+911,Oottupura Hotel,1,0,0,1,0,0,3,NaN
+912,Salt Mango Tree,2,0,0,2,0,0,3,NaN
+913,New York Pizza 10,1,0,0,1,0,0,3,NaN
+914,Saina Biriyani House,1,0,0,1,0,0,3,NaN
+915,Chick Bake,1,0,0,1,0,0,3,NaN
+916,South Star,1,0,0,1,0,0,3,NaN
+917,Hotel Sea Pearl,3,0,0,3,0,0,3,NaN
+918,Charcoal Shack Restaurant,2,0,0,2,0,0,3,NaN
+919,Premier Seafood Kitchen,1,0,0,1,0,0,3,₹150 - ₹500
+920,Laughing Chopstick,2,0,0,2,0,0,3,NaN
+921,Hellocake,2,0,0,2,0,0,3,NaN
+922,McDonald's,1,0,0,1,0,0,3,NaN
+923,Masala Republic,2,0,0,2,0,0,3,NaN
+924,YAS Restaurant & Rooms,1,0,0,1,0,0,3,₹100 - ₹300
+925,Ceylon Bake House,1,0,0,1,0,0,3,NaN
+926,Hong Kong restaurant,1,0,0,1,0,0,3,NaN
+927,Kizhangans Root & Tuber Crops Restaurant,1,0,0,1,0,0,3,NaN
+928,Curry Leaf,1,0,0,1,0,0,3,NaN
+929,Cinemasala,1,0,0,1,0,0,3,NaN
+930,Hotel Vashali Dhaba Restaurant,1,0,0,1,0,0,3,NaN
+931,The Kappa Club,1,0,0,1,0,0,3,NaN
+932,Sree Arrya Nivas,1,0,0,1,0,0,3,NaN
+933,Karthika Regency,1,0,0,1,0,0,3,NaN
+934,Usthad Sea Food Corner,1,0,0,1,0,0,3,NaN
+935,Burger King,3,0,0,3,0,0,3,NaN
+936,Jharokha,1,0,0,1,0,0,3,NaN
+937,Kafe Kopi Luwak,1,0,0,1,0,0,3,NaN
+938,New Annapurna Restaurant,2,1,0,0,0,1,3,NaN
+939,Raindrops,2,0,1,0,1,0,3,NaN
+940,Ceylon Bake House,3,0,2,0,0,1,3,₹30 - ₹500
+941,Nettoor Toddy Shop (Shappu),11,3,3,1,1,3,3,NaN
+942,Chaya Peediya,2,0,1,0,1,0,3,NaN
+943,Meenus Family Restaurant,11,1,3,3,4,0,3,NaN
+944,Fawaz Broasted,10,1,1,5,1,1,3,NaN
+945,JJS Restaurant,7,0,2,4,0,1,3,NaN
+946,Kebabs & Curries,2,1,0,0,0,1,3,NaN
+947,Adaminte Chayakkada,42,6,13,8,5,10,3,NaN
+948,Beans and Berries,2,1,0,0,0,1,3,NaN
+949,Chicking Palarivattom,7,0,4,0,1,2,3,NaN
+950,Chicking Fried Chicken,7,0,2,3,1,1,3,NaN
+951,Madhava Fast Food,5,0,1,3,0,1,3,NaN
+952,Eat Treat,1,0,0,0,1,0,2,NaN
+953,the mando,1,0,0,0,1,0,2,NaN
+954,Empire Plaza,3,0,2,0,0,1,3,NaN
+955,SFC Plus,12,0,3,6,1,2,3,₹195 - ₹349
+956,Kochin FoodMall,4,0,2,0,0,2,2.5,NaN
+957,McDonald's,6,1,1,0,3,1,2.5,NaN
+958,Gravity,2,0,0,1,0,1,2,NaN
+959,Dileep's Mango Tree,41,9,7,4,13,6,3,NaN
+960,Mahfil Restaurant,2,0,1,0,0,1,2.5,NaN
+961,Dream Home Inn Restaurant,1,0,0,0,0,1,1,NaN
+962,Abu Ali Restaurant,2,0,1,0,0,1,2.5,NaN
+963,Sheesha,1,0,0,0,1,0,2,NaN
+964,Cafe Lemon Tree,3,0,0,1,0,1,2.5,NaN
+965,Suburban Restaurant,8,1,2,2,0,3,3,NaN
+966,Bamboo Cafe,2,0,1,0,0,1,2.5,NaN
+967,Golden Fork,14,1,3,5,1,4,2.5,NaN
+968,KFC Kakkanad,1,0,0,0,1,0,2,NaN
+969,Awaany Restaurant,8,0,0,6,1,1,2.5,NaN
+970,P60 Pizzeria,2,0,1,0,0,1,2.5,NaN
+971,Kapila Restaurant,1,0,0,0,0,1,1,NaN
+972,The Bake House Inn,3,0,1,0,1,1,2.5,NaN
+973,Urban Paratha,4,1,1,0,0,2,3,NaN
+974,Thalassery Kitchen,11,0,3,5,0,3,2.5,NaN
+975,Khyber Restaurant,15,0,2,10,1,2,3,NaN
+976,Akshaya Restaurant,4,0,1,0,2,1,2.5,NaN
+977,Kunjunni Nair Restaurant,3,0,2,0,0,1,3,NaN
+978,Thara Restaurant,2,0,0,1,0,1,2,NaN
+979,Bake My Day Palluruthy,1,0,0,0,0,1,1,₹100 - ₹400
+980,Bab arabia,3,0,0,2,0,1,2.5,NaN
+981,Hotel Harsh Dhaba Restaurant,2,0,0,1,0,1,2,NaN
+982,Mahanami Heritage Hotel,4,0,0,0,0,4,1,NaN
+983,TKofee Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+984,Kochi,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+985,TIbet Kitchen,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+986,Le Mashawi,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+987,Smnkehouse,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+988,Waves,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+989,Thali,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+990,The News Room,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+991,Royal Castle,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+992,Nanking Family Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+993,Glass and Steel,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+994,Hotel Paris,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+995,Entizer,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+996,Canevan Soltics,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+997,Harvest Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+998,Hotel Jaybees,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+999,Bread N Butter,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1000,Anchorage,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1001,2 Hour Biriyani Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1002,Sea Fort Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹200 - ₹2,000"
+1003,7 Star Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1004,Waffle Street,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1005,The Charcoal Grill,0,NaN,NaN,NaN,NaN,NaN,NaN,₹150 - ₹400
+1006,Bayleaf- Multicusine Restro,0,NaN,NaN,NaN,NaN,NaN,NaN,₹200 - ₹500
+1007,Paayal Aqua Life,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1008,Rinoos Coolbar,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1009,Bottoms Up,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1010,LeBufe,0,NaN,NaN,NaN,NaN,NaN,NaN,₹10 - ₹200
+1011,Cafe green,0,NaN,NaN,NaN,NaN,NaN,NaN,₹25 - ₹250
+1012,Arabikkozhi Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹140 - ₹700
+1013,The Walk in,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1014,Rockers Cafe,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1015,Barriga,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1016,Vittles,0,NaN,NaN,NaN,NaN,NaN,NaN,₹120 - ₹950
+1017,Pizza Nation,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1018,Nosh Haus,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹14 - ₹1,000"
+1019,Sucree Dessert Mill,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1020,Cake Nation,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1021,Arabian Treat Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1022,Exotic Spices,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹10 - ₹12,500"
+1023,MACJ's American Fried Chicken,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1024,Oy's in Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1025,Wellington,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1026,Oasis,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1027,Moti Mahal Delux,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1028,Sand Dunes Persian Cafe,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1029,Vinocean,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1030,Baskin-Robbins,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1031,Coffee Temple Fort Cochin,0,NaN,NaN,NaN,NaN,NaN,NaN,₹100 - ₹400
+1032,Cafe refuel,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1033,Sweet tooth,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹1,000 - ₹10,000"
+1034,Benaras Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1035,Juicy Bites,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1036,Hungry Birds,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1037,Cha Lanche,0,NaN,NaN,NaN,NaN,NaN,NaN,₹100 - ₹350
+1038,New Blue Star,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1039,Juice Lounge,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1040,Feast Multicuisine Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1041,Khatta Meetha Cart,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1042,Amina's Biriyani and Caterers,0,NaN,NaN,NaN,NaN,NaN,NaN,₹80 - ₹280
+1043,Urban Paratha,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1044,Pathiri Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1045,Quallis Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1046,Ikka's Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹100 - ₹300
+1047,Athira,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1048,Aavi,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1049,Chaya Peediya,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1050,Cochin Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹100 - ₹150
+1051,Bharath Food Court,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1052,Krishna Leila seafood restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1053,Kaira,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1054,Happy Idli,0,NaN,NaN,NaN,NaN,NaN,NaN,₹10 - ₹70
+1055,CreamPaw,0,NaN,NaN,NaN,NaN,NaN,NaN,₹30 - ₹100
+1056,Flamin' Hot Chicken,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1057,The Orient,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1058,Sapphire The Family Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1059,Tharavadu Cafe,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1060,Rawal lassi joint,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1061,The Brewing Company,0,NaN,NaN,NaN,NaN,NaN,NaN,₹99 - ₹300
+1062,Kayees Rahmathulla Cafe,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1063,Cochin Seaport Hotel,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1064,MGM CocioNatura,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹30 - ₹1,000"
+1065,Yavanpriya by Club Mahindra,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1066,Annies kitchen,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1067,Resa Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹50 - ₹400
+1068,Neft Food Court,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1069,Sulaimaniz Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1070,Dincy's Kitchen,0,NaN,NaN,NaN,NaN,NaN,NaN,₹100 - ₹200
+1071,Street Foods By Punjab Grill Edappally,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1072,Punjab Grill Edappally,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1073,Sundae Sprinkle,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1074,Crunchy Fried Chicken,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1075,La Gritta Barbeque,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1076,Asia Seven Edappally,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1077,Gusto Grill Kochi,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1078,Toto Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1079,Happy Day Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹100 - ₹300
+1080,Masala Craft Multi Cuisine Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹120 - ₹550
+1081,Diet Eat,0,NaN,NaN,NaN,NaN,NaN,NaN,₹50 - ₹300
+1082,Monqo,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1083,Cabana Grill & Cafe,0,NaN,NaN,NaN,NaN,NaN,NaN,₹90 - ₹280
+1084,Shawarmashi,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1085,Shaan E Punjab,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1086,ChicKing Fried Chicken,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1087,Hotel Alka Plaza,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1088,Kolkata Food Junction,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹3,250 - ₹16,250"
+1089,mojo,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1090,Hi Dine Orange,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1091,Tasty Jigarthanda,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1092,Mayyazhi Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1093,Palaaram Kadavanthra,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1094,Kailash Parbat,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1095,Eatery..! Your Second Home,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1096,Tea Time,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1097,Zamovar,0,NaN,NaN,NaN,NaN,NaN,NaN,₹69 - ₹999
+1098,Lumier Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1099,Pappricca,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1100,Thara Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1101,Tea Time,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1102,Padharo Sa,0,NaN,NaN,NaN,NaN,NaN,NaN,₹120 - ₹350
+1103,Pomodoro Kochi,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1104,Black Gold - Cafe Cue,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1105,Beer & Wine Parlour,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1106,Moms Kitchen Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹150 - ₹250
+1107,Omana Ammumas,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1108,Punjab Grill,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1109,Canova Cafe,0,NaN,NaN,NaN,NaN,NaN,NaN,₹50 - ₹150
+1110,Vanitha Hotel,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1111,The Muyal RESTAURANT,0,NaN,NaN,NaN,NaN,NaN,NaN,₹30 - ₹300
+1112,K K R Food Products,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1113,Akathalam Homely Food,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1114,Thanneer Mathan Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,₹70 - ₹140
+1115,Holly Hock,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1116,Cochin Halwa Centre,0,NaN,NaN,NaN,NaN,NaN,NaN,"₹100 - ₹1,000"
+1117,Canvas Restaurant Pizzeria,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1118,Canvas Restaurant & Pizzeria,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1119,Cafe Delaviz,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1120,Cafe Sora,0,NaN,NaN,NaN,NaN,NaN,NaN,₹10 - ₹500
+1121,Honey Dew Bakery,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1122,Food Barrel Restaurant,0,NaN,NaN,NaN,NaN,NaN,NaN,NaN
